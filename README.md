@@ -8,3 +8,5 @@ Nama Anggota :
 4. Reza Febriansyah
 
 TI-3B
+
+Note: kudu sak wifi blok
